@@ -28,7 +28,7 @@ Timing: 60 min
 ### Практика
 Timig: 20 min
   
-[Практика](../../practice/03_gilded-rose/_tasks/01.md) - напишите характеризационные тесты на Gilded Rose.
+[Практика: Python](../../python/03_gilded-rose/_tasks/01.md) / [Go](../../go/03_gilded-rose/_tasks/01.md) — напишите характеризационные тесты на Gilded Rose.
 
 ## Golden Master
 - Когда есть четкие входные и выходные данные
@@ -45,7 +45,7 @@ Timig: 20 min
 ### Практика
 Timig: 20 min
   
-[Практика](../../practice/03_gilded-rose/_tasks/02.md) - напишите Golden Master тест на Gilded Rose.
+[Практика: Python](../../python/03_gilded-rose/_tasks/02.md) / [Go](../../go/03_gilded-rose/_tasks/02.md) — напишите Golden Master-тест на Gilded Rose.
 
 
 ## Дебриф

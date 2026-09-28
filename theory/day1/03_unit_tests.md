@@ -20,7 +20,7 @@ Timing: 45 min
 ### Практика
 Timig: 20 min
 
-[Практика](../../practice/01_dices/_tasks/01.md) - написать unit тесты на код в упражнении Dice Roll Game.
+[Практика: Python](../../python/01_dices/_tasks/01.md) / [Go](../../go/01_dices/_tasks/01.md) — написать unit-тесты на код в упражнении Dice Roll Game.
 
 ### Дебриф
 - Покажите ваш вариант, насколько тесты получились удобными и понятными?
@@ -88,7 +88,7 @@ def test_win_on_three_x_horizontally():   # 4ый шаг: название те�
 ### Практика
 Timing: 20 min
 
-[Практика](../../practice/01_dices/_tasks/01.md) - написать новые unit тесты на код Dice Roll Game с учётом того, что узнали.
+[Практика: Python](../../python/01_dices/_tasks/01.md) / [Go](../../go/01_dices/_tasks/01.md) — написать новые unit-тесты на код Dice Roll Game с учётом того, что узнали.
 
 ### Дебриф
 - Как эти правила повлияли на лаконичность и выразительность теста? 

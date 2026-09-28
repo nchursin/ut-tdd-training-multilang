@@ -57,12 +57,12 @@ Timing: 45-60 min
 ## Практика
 Timing: 20 min
 
-[Практика](../../practice/01_dices/_tasks/02.md) - использовать stub в упражнении Dice Roll Game.
+[Практика: Python](../../python/01_dices/_tasks/02.md) / [Go](../../go/01_dices/_tasks/02.md) — использовать stub в упражнении Dice Roll Game.
 
 ## Практика
 Timing: 20 min
 
-[Практика](../../practice/01_dices/_tasks/03.md) - использовать mock в упражнении Dice Roll Game.
+[Практика: Python](../../python/01_dices/_tasks/03.md) / [Go](../../go/01_dices/_tasks/03.md) — использовать mock в упражнении Dice Roll Game.
 
 ## Проектор: Тесты на поведение/состояние
 Разница между тестами на поведение и тестами на состояние:

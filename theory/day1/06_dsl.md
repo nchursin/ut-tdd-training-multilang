@@ -71,7 +71,7 @@ Timing: 45 min
 ### Практика. Тесты на Dice Roll Game
 Timing: 20 min
   
-[Практика](../../practice/01_dices/_tasks/05.md) - напишите DSL тесты на Dice Roll Game.
+[Практика: Python](../../python/01_dices/_tasks/05.md) / [Go](../../go/01_dices/_tasks/05.md) — напишите DSL-тесты на Dice Roll Game.
 
 ### Дебриф на DSL
 В чём вы видите разницу - с DSL и без DSL? Где в работе вам это бы пригодилось?
