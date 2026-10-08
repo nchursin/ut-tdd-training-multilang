@@ -109,7 +109,9 @@ Timing: 60 min
 ## Практика
 Timing: 40 min
   
-[Практика: Python](../../practice/python/02_string_calculator/_tasks/01.md) / [Go](../../practice/go/02_string_calculator/_tasks/01.md) — реализовать String Calculator по TDD (разработка через тестирование).
+Практика: реализовать String Calculator по TDD (разработка через тестирование).
+- [Python](../../practice/python/02_string_calculator/_tasks/01.md)
+- [Go](../../practice/go/02_string_calculator/_tasks/01.md)
 
 **Дебриф на TDD**
 - Получилось ли сделать так, чтобы тесты стали вашими требованиями и быстрым фидбеком?

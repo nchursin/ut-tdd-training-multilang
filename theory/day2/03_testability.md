@@ -45,7 +45,9 @@ Seam - шов. Нередко это используется как общее 
 ## Практика
 Timig: 20 min
   
-[Практика: Python](../../practice/python/04_gilded-rose-extended/_tasks/01.md) / [Go](../../practice/go/04_gilded-rose-extended/_tasks/01.md) — напишите тесты на отчёт в Gilded Rose.
+Практика: напишите тесты на отчёт в Gilded Rose.
+- [Python](../../practice/python/04_gilded-rose-extended/_tasks/01.md)
+- [Go](../../practice/go/04_gilded-rose-extended/_tasks/01.md)
 
 ## Дебриф
 - Какой из этих подходов работы со швами вам больше откликнулся?

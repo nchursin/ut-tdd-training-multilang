@@ -88,7 +88,9 @@ Acceptance тесты на картинке из книги Agile Technical Prac
 ## Практика
 Timig: 40 min
   
-[Практика: Python](../../practice/python/05_stock_portfolio/_tasks/02.md) / [Go](../../practice/go/05_stock_portfolio/_tasks/02.md) — напишите кату Stock Portfolio по ATDD с AI, контролируя и верифицируя каждый шаг.
+Практика: напишите кату Stock Portfolio по ATDD с AI, контролируя и верифицируя каждый шаг.
+- [Python](../../practice/python/05_stock_portfolio/_tasks/02.md)
+- [Go](../../practice/go/05_stock_portfolio/_tasks/02.md)
 
 ## Дебриф
   
