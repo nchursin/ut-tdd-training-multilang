@@ -32,7 +32,7 @@ TDD помогает:
 ## Практика
 Timig: 50 min
 
-[Практика: Python](../../python/05_stock_portfolio/_tasks/01.md) / [Go](../../go/05_stock_portfolio/_tasks/01.md) — напишите упражнение Stock Portfolio по TDD, используя все знания о тестах и тестируемом коде.
+[Практика: Python](../../practice/python/05_stock_portfolio/_tasks/01.md) / [Go](../../practice/go/05_stock_portfolio/_tasks/01.md) — напишите упражнение Stock Portfolio по TDD, используя все знания о тестах и тестируемом коде.
 
 ## Дебриф
 
