@@ -23,7 +23,8 @@ Timing: 45 min
 - Длинная и запутанная инициализация
 - Настройка Mock и Fake
 
-### Проектор: Пример кода
+### Проектор: Примеры кода
+#### Python
 https://docs.pytest.org/en/stable/explanation/fixtures.html
 ```python
 import pytest
@@ -50,6 +51,42 @@ def fruit_basket(my_fruit):
 def test_my_fruit_in_basket(my_fruit, fruit_basket):
     assert my_fruit in fruit_basket
 ```
+#### Go
+```go
+package fruit_test
+
+import (
+	"slices"
+	"testing"
+)
+
+type Fruit struct {
+	Name string
+}
+
+// Фикстура: обычная функция-конструктор тестовых данных.
+func myFruit(t *testing.T) Fruit {
+	t.Helper()
+	return Fruit{Name: "apple"}
+}
+
+// Фикстура, зависящая от другой фикстуры: зависимость передаётся явно аргументом.
+func fruitBasket(t *testing.T, myFruit Fruit) []Fruit {
+	t.Helper()
+	return []Fruit{{Name: "banana"}, myFruit}
+}
+
+func TestMyFruitInBasket(t *testing.T) {
+	// Каждую фикстуру вызываем один раз и передаём дальше
+	apple := myFruit(t)
+	basket := fruitBasket(t, apple)
+
+	if !slices.Contains(basket, apple) {
+		t.Errorf("fruit %+v not found in basket %+v", apple, basket)
+	}
+}
+```
+
 ## Практика
 Timing: 20 min
   
